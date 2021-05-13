@@ -1,7 +1,7 @@
 from wdat_plot import *
 
 # creata Wdat class object by passing prefix to .wtxt file
-p = Wdat("./data/100_P10_pc_seed2")
+p = Wdat("./data/example")
 # print all elements of p
 print(p)
 
